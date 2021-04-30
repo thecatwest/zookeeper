@@ -117,6 +117,33 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Godzilla",
+      "species": "lizard",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Tomato",
+      "species": "red panda",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Potato",
+      "species": "Cockatoo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
